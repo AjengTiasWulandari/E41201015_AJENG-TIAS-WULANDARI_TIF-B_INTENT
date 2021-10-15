@@ -3,7 +3,7 @@ Workshop Mobile Application "Implicit dan Eksplicit"
 
 Nama : Ajeng Tias Wulandari <br>
 
-Nim: E41201015
+NIM: E41201015
 
 Golongan: B
 
